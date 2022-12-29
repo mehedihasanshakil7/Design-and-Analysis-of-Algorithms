@@ -14,6 +14,11 @@ Problem | Solution
 [122. Best Time to Buy and Sell Stock II (leetcode)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/122_buy_and_sell_stock_II.cpp)
 [1629. Movie Festival (cses)](https://cses.fi/problemset/task/1629)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/movie_festival.cpp)
 
+### Binary Search
+Problem | Solution
+--- | ---
+[35. Search Insert Position (leetcode)](https://leetcode.com/problems/search-insert-position/description/) | [Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/35.cpp)
+
 ### Ternary Search
 Problem | Solution
 --- | ---
