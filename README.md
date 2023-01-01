@@ -23,3 +23,8 @@ Problem | Solution
 Problem | Solution
 --- | ---
 [35. Search Insert Position (leetcode)](https://leetcode.com/problems/search-insert-position/description/) | [Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Ternary_search/35.cpp)
+
+### Geometry
+Problem | Solution
+--- | ---
+[1369A. FashionabLee (codeforces)](https://codeforces.com/problemset/problem/1369/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1369A.cpp)
