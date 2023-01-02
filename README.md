@@ -29,3 +29,4 @@ Problem | Solution
 --- | ---
 [1369A. FashionabLee (codeforces)](https://codeforces.com/problemset/problem/1369/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1369A.cpp)
 [1622A. Construct a Rectangle (codeforces)](https://codeforces.com/problemset/problem/1622/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1622A.cpp)
+[1398A. Bad Triangle (codeforces)](https://codeforces.com/problemset/problem/1398/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1398A.cpp)
