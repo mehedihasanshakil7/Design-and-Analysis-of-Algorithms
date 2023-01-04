@@ -36,3 +36,4 @@ Problem | Solution
 Problem | Solution
 --- | ---
 [486A. Calculating Function (codeforces)](https://codeforces.com/problemset/problem/486/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/486A.cpp)
+[200B. Drinks (codeforces)](https://codeforces.com/problemset/problem/200/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/200B.cpp)
