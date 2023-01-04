@@ -31,3 +31,8 @@ Problem | Solution
 [1622A. Construct a Rectangle (codeforces)](https://codeforces.com/problemset/problem/1622/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1622A.cpp)
 [1398A. Bad Triangle (codeforces)](https://codeforces.com/problemset/problem/1398/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1398A.cpp)
 [1312A. Two Regular Polygons (codeforces](https://codeforces.com/problemset/problem/1312/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1312A.cpp)
+
+### Math
+Problem | Solution
+--- | ---
+[486A. Calculating Function (codeforces)](https://codeforces.com/problemset/problem/486/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/486A.cpp)
