@@ -45,3 +45,4 @@ Problem | Solution
 [443A. Anton and Letters (codeforces)](https://codeforces.com/problemset/problem/443/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/443A.cpp)
 [732A. Buy a Shovel (codeforces)](https://codeforces.com/problemset/problem/732/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/732A.cpp)
 [1343B. Balanced Array (codeforces)](https://codeforces.com/problemset/problem/1343/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/1343B.cpp)
+[1702A. Round Down the Price (codeforces)](https://codeforces.com/problemset/problem/1702/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/1702A.cpp)
