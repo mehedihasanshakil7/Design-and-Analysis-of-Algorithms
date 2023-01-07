@@ -56,6 +56,7 @@ Problem |Solution
 [467A. George and Accommodation (codeforces)](https://codeforces.com/problemset/problem/467/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/467A.cpp)
 [32B. Borze (codeforces)](https://codeforces.com/problemset/problem/32/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/32B.cpp)
 [1703B. ICPC Balloons (codeforces)](https://codeforces.com/problemset/problem/1703/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1703B.cpp)
+[1722B. Colourblindness (codeforces)](https://codeforces.com/problemset/problem/1722/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1722B.cpp)
 
 ### Number Theory
 Problem | Solution
