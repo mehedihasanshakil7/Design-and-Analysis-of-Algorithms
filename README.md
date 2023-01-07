@@ -52,3 +52,4 @@ Problem | Solution
 Problem |Solution
 ---|---
 [677A. Vanya and Fence (codeforces)](https://codeforces.com/problemset/problem/677/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/677A.cpp)
+[1030A. In Search of an Easy Problem (codeforces)](https://codeforces.com/problemset/problem/1030/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1030A.cpp)
