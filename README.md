@@ -6,6 +6,7 @@ Problem | Solution
 ---|---
 [918B. Radio Station (codeforces)](https://codeforces.com/problemset/problem/918/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Map/918B.cpp)
 [903C. Boxes Packing (codeforces)](https://codeforces.com/problemset/problem/903/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Map/903C.cpp)
+[1703B. ICPC Balloons (codeforces)](https://codeforces.com/problemset/problem/1703/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Map/1703B.cpp)
 
 ### Greedy
 Problem | Solution
