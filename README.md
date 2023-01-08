@@ -70,3 +70,4 @@ Problem|Solution
 ---|---
 [1703C. Cypher (codeforces)](https://codeforces.com/problemset/problem/1703/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1703C.cpp)
 [1391B. Fix You (codeforces)](https://codeforces.com/problemset/problem/1391/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1391B.cpp)
+[1770A. Koxia and Whiteboards (codeforces)](https://codeforces.com/problemset/problem/1770/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1770A.cpp)
