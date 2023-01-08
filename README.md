@@ -63,3 +63,8 @@ Problem |Solution
 Problem | Solution
 ---|---
 [472A. Design Tutorial: Learn from Math (codeforces)](https://codeforces.com/problemset/problem/472/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/472A.cpp)
+
+### Brute Force
+Problem|Solution
+---|---
+[1703C. Cypher (codeforces)](https://codeforces.com/problemset/problem/1703/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1703C.cpp)
