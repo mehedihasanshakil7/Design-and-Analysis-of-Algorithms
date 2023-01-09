@@ -33,6 +33,7 @@ Problem | Solution
 [1398A. Bad Triangle (codeforces)](https://codeforces.com/problemset/problem/1398/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1398A.cpp)
 [1312A. Two Regular Polygons (codeforces](https://codeforces.com/problemset/problem/1312/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1312A.cpp)
 [1740B. Jumbo Extra Cheese 2 (codeforces)](https://codeforces.com/problemset/problem/1740/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1740B.cpp)
+[1713A. Traveling Salesman Problem (codeforces)](https://codeforces.com/problemset/problem/1713/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1713A.cpp)
 
 ### Math
 Problem | Solution
