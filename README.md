@@ -60,6 +60,7 @@ Problem |Solution
 [32B. Borze (codeforces)](https://codeforces.com/problemset/problem/32/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/32B.cpp)
 [1703B. ICPC Balloons (codeforces)](https://codeforces.com/problemset/problem/1703/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1703B.cpp)
 [1722B. Colourblindness (codeforces)](https://codeforces.com/problemset/problem/1722/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1722B.cpp)
+[1772B. Matrix Rotation (codeforces)](https://codeforces.com/problemset/problem/1772/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1772B.cpp)
 
 ### Number Theory
 Problem | Solution
