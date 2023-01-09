@@ -39,6 +39,7 @@ Problem | Solution
 [486A. Calculating Function (codeforces)](https://codeforces.com/problemset/problem/486/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/486A.cpp)
 [200B. Drinks (codeforces)](https://codeforces.com/problemset/problem/200/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/200B.cpp)
 [734B. Anton and Digits (codeforces)](https://codeforces.com/problemset/problem/734/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/734B.cpp)
+[1520B. Ordinary Numbers (codeforces)](https://codeforces.com/problemset/problem/1520/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1520B.cpp)
 
 ### Constructive Algorithms
 Problem | Solution
