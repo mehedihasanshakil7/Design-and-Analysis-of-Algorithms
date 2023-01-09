@@ -42,6 +42,7 @@ Problem | Solution
 [200B. Drinks (codeforces)](https://codeforces.com/problemset/problem/200/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/200B.cpp)
 [734B. Anton and Digits (codeforces)](https://codeforces.com/problemset/problem/734/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/734B.cpp)
 [1520B. Ordinary Numbers (codeforces)](https://codeforces.com/problemset/problem/1520/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1520B.cpp)
+[1676B. Equal Candies (codeforces)](https://codeforces.com/problemset/problem/1676/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1676B.cpp)
 
 ### Constructive Algorithms
 Problem | Solution
