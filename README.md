@@ -75,3 +75,4 @@ Problem|Solution
 [1770A. Koxia and Whiteboards (codeforces)](https://codeforces.com/problemset/problem/1770/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1770A.cpp)
 [1646B. Quality vs Quantity (codeforces)](https://codeforces.com/problemset/problem/1646/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1646B.cpp)
 [509A. Maximum in Table (codeforces)](https://codeforces.com/problemset/problem/509/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/509A.cpp)
+[1676C. Most Similar Words (codeforces)](https://codeforces.com/problemset/problem/1676/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1676C.cpp)
