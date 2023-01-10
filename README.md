@@ -73,6 +73,7 @@ Problem | Solution
 [1629B. GCD Arrays (codefoces)](https://codeforces.com/problemset/problem/1629/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1629B.cpp)
 [1370A. Maximum GCD (codeforces)](https://codeforces.com/problemset/problem/1370/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1370A.cpp)
 [1325A. EhAb AnD gCd (codeforces)](https://codeforces.com/problemset/problem/1325/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1325A.cpp)
+[1389A. LCM Problem (codeforces)](https://codeforces.com/problemset/problem/1389/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1389A.cpp)
 
 ### Brute Force
 Problem|Solution
