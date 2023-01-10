@@ -70,6 +70,7 @@ Problem |Solution
 Problem | Solution
 ---|---
 [472A. Design Tutorial: Learn from Math (codeforces)](https://codeforces.com/problemset/problem/472/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/472A.cpp)
+[1629B. GCD Arrays (codefoces)](https://codeforces.com/problemset/problem/1629/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1629B.cpp)
 
 ### Brute Force
 Problem|Solution
