@@ -71,6 +71,7 @@ Problem | Solution
 ---|---
 [472A. Design Tutorial: Learn from Math (codeforces)](https://codeforces.com/problemset/problem/472/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/472A.cpp)
 [1629B. GCD Arrays (codefoces)](https://codeforces.com/problemset/problem/1629/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1629B.cpp)
+[1370A. Maximum GCD (codeforces)](https://codeforces.com/problemset/problem/1370/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1370A.cpp)
 
 ### Brute Force
 Problem|Solution
