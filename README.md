@@ -74,6 +74,7 @@ Problem | Solution
 [1370A. Maximum GCD (codeforces)](https://codeforces.com/problemset/problem/1370/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1370A.cpp)
 [1325A. EhAb AnD gCd (codeforces)](https://codeforces.com/problemset/problem/1325/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1325A.cpp)
 [1389A. LCM Problem (codeforces)](https://codeforces.com/problemset/problem/1389/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1389A.cpp)
+[1549A. Gregor and Cryptography (codeforces)](https://codeforces.com/problemset/problem/1549/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1549A.cpp)
 
 ### Brute Force
 Problem|Solution
