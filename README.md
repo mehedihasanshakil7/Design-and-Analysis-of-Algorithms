@@ -76,6 +76,7 @@ Problem | Solution
 [1389A. LCM Problem (codeforces)](https://codeforces.com/problemset/problem/1389/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1389A.cpp)
 [1549A. Gregor and Cryptography (codeforces)](https://codeforces.com/problemset/problem/1549/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1549A.cpp)
 [1553A. Digits Sum (codeforces)](https://codeforces.com/problemset/problem/1553/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1553A.cpp)
+[1455A. Strange Functions (codeforces)](https://codeforces.com/problemset/problem/1455/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1455A.cpp)
 
 ### Brute Force
 Problem|Solution
