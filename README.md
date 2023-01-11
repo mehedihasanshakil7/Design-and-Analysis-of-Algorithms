@@ -54,6 +54,7 @@ Problem | Solution
 [1343B. Balanced Array (codeforces)](https://codeforces.com/problemset/problem/1343/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/1343B.cpp)
 [1702A. Round Down the Price (codeforces)](https://codeforces.com/problemset/problem/1702/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/1702A.cpp)
 [1509A. Average Height (codeforces)](https://codeforces.com/problemset/problem/1509/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/1509A.cpp)
+[752A. Santa Claus and a Place in a Class (codeforces)](https://codeforces.com/problemset/problem/752/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/752A.cpp)
 
 ### Implementation
 Problem |Solution
