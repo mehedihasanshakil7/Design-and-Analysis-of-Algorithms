@@ -68,6 +68,7 @@ Problem |Solution
 [1703B. ICPC Balloons (codeforces)](https://codeforces.com/problemset/problem/1703/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1703B.cpp)
 [1722B. Colourblindness (codeforces)](https://codeforces.com/problemset/problem/1722/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1722B.cpp)
 [1772B. Matrix Rotation (codeforces)](https://codeforces.com/problemset/problem/1772/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1772B.cpp)
+[104A. Blackjack (codeforces)](https://codeforces.com/problemset/problem/104/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/104A.cpp)
 
 ### Number Theory
 Problem | Solution
