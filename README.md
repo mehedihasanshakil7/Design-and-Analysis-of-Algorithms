@@ -45,6 +45,7 @@ Problem | Solution
 [1676B. Equal Candies (codeforces)](https://codeforces.com/problemset/problem/1676/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1676B.cpp)
 [1560B. Who's Opposite? (codeforces)](https://codeforces.com/problemset/problem/1560/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1560B.cpp)
 [835A. Key races (codeforces)](https://codeforces.com/problemset/problem/835/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/835A.cpp)
+[832A. Sasha and Sticks (codeforces)](https://codeforces.com/problemset/problem/832/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/832A.cpp)
 
 ### Constructive Algorithms
 Problem | Solution
