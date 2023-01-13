@@ -48,6 +48,7 @@ Problem | Solution
 [832A. Sasha and Sticks (codeforces)](https://codeforces.com/problemset/problem/832/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/832A.cpp)
 [47A. Triangular numbers (codeforces)](https://codeforces.com/problemset/problem/47/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/47A.cpp)
 [1566A. Median Maximization (codeforces)](https://codeforces.com/problemset/problem/1566/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1566A.cpp)
+[1592A. Gamer Hemose (codeforces)](https://codeforces.com/problemset/problem/1592/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1592A.cpp)
 
 ### Constructive Algorithms
 Problem | Solution
