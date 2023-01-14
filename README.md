@@ -81,6 +81,7 @@ Problem |Solution
 [672A. Summer Camp (codeforces)](https://codeforces.com/problemset/problem/672/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/672A.cpp)
 [681A. A Good Contest (codeforces)](https://codeforces.com/problemset/problem/681/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/681A.cpp)
 [248A. Cupboards (codeforces)](https://codeforces.com/problemset/problem/248/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/248A.cpp)
+[431A. Black Square (codeforces)](https://codeforces.com/problemset/problem/431/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/431A.cpp)
 
 ### Number Theory
 Problem | Solution
