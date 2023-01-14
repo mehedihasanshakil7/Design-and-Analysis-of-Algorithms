@@ -60,6 +60,7 @@ Problem | Solution
 [1702A. Round Down the Price (codeforces)](https://codeforces.com/problemset/problem/1702/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/1702A.cpp)
 [1509A. Average Height (codeforces)](https://codeforces.com/problemset/problem/1509/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/1509A.cpp)
 [752A. Santa Claus and a Place in a Class (codeforces)](https://codeforces.com/problemset/problem/752/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/752A.cpp)
+[361A. Levko and Table (codeforces)](https://codeforces.com/problemset/problem/361/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Constructive_Algorithms/361A.cpp)
 
 ### Implementation
 Problem |Solution
