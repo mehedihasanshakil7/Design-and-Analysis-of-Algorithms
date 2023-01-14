@@ -100,3 +100,4 @@ Problem|Solution
 [509A. Maximum in Table (codeforces)](https://codeforces.com/problemset/problem/509/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/509A.cpp)
 [1676C. Most Similar Words (codeforces)](https://codeforces.com/problemset/problem/1676/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1676C.cpp)
 [764A. Taymyr is calling you (codeforces)](https://codeforces.com/problemset/problem/764/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/764A.cpp)
+[231A. Team (codeforces)](https://codeforces.com/problemset/problem/231/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/231A.cpp)
