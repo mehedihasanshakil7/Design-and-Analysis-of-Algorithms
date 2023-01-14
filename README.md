@@ -74,6 +74,7 @@ Problem |Solution
 [104A. Blackjack (codeforces)](https://codeforces.com/problemset/problem/104/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/104A.cpp)
 [705A. Hulk (codeforces)](https://codeforces.com/problemset/problem/705/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/705A.cpp)
 [344A. Magnets (codeforces)](https://codeforces.com/problemset/problem/344/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/344A.cpp)
+[703A. Mishka and Game (codeforces)](https://codeforces.com/problemset/problem/703/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/703A.cpp)
 
 ### Number Theory
 Problem | Solution
