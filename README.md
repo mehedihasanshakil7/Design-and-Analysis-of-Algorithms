@@ -73,6 +73,7 @@ Problem |Solution
 [1772B. Matrix Rotation (codeforces)](https://codeforces.com/problemset/problem/1772/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1772B.cpp)
 [104A. Blackjack (codeforces)](https://codeforces.com/problemset/problem/104/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/104A.cpp)
 [705A. Hulk (codeforces)](https://codeforces.com/problemset/problem/705/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/705A.cpp)
+[344A. Magnets (codeforces)](https://codeforces.com/problemset/problem/344/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/344A.cpp)
 
 ### Number Theory
 Problem | Solution
