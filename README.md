@@ -78,6 +78,7 @@ Problem |Solution
 [703A. Mishka and Game (codeforces)](https://codeforces.com/problemset/problem/703/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/703A.cpp)
 [454A. Little Pony and Crystal Mine (codeforces)](https://codeforces.com/problemset/problem/454/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/454A.cpp)
 [672A. Summer Camp (codeforces)](https://codeforces.com/problemset/problem/672/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/672A.cpp)
+[681A. A Good Contest (codeforces)](https://codeforces.com/problemset/problem/681/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/681A.cpp)
 
 ### Number Theory
 Problem | Solution
