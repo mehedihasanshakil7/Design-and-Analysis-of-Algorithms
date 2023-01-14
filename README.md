@@ -76,6 +76,7 @@ Problem |Solution
 [705A. Hulk (codeforces)](https://codeforces.com/problemset/problem/705/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/705A.cpp)
 [344A. Magnets (codeforces)](https://codeforces.com/problemset/problem/344/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/344A.cpp)
 [703A. Mishka and Game (codeforces)](https://codeforces.com/problemset/problem/703/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/703A.cpp)
+[454A. Little Pony and Crystal Mine (codeforces)](https://codeforces.com/problemset/problem/454/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/454A.cpp)
 
 ### Number Theory
 Problem | Solution
