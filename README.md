@@ -109,3 +109,8 @@ Problem|Solution
 [764A. Taymyr is calling you (codeforces)](https://codeforces.com/problemset/problem/764/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/764A.cpp)
 [231A. Team (codeforces)](https://codeforces.com/problemset/problem/231/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/231A.cpp)
 [271A. Beautiful Year (codeforces)](https://codeforces.com/problemset/problem/271/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/271A.cpp)
+
+### Factorial
+Problem | Solution
+--- | ---
+[1618. Trailing Zeros (cses)](https://cses.fi/problemset/task/1618)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Factorial/1618.cpp)
