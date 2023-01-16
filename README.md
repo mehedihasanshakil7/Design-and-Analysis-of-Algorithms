@@ -99,6 +99,7 @@ Problem | Solution
 [1455A. Strange Functions (codeforces)](https://codeforces.com/problemset/problem/1455/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1455A.cpp)
 [1388A. Captain Flint and Crew Recruitment (codeforces)](https://codeforces.com/problemset/problem/1388/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1388A.cpp)
 [1525A. Potion-making (codeforces)](https://codeforces.com/problemset/problem/1525/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1525A.cpp)
+[1765M. Minimum LCM (codeforces)](https://codeforces.com/contest/1765/problem/M)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1765M.cpp)
 
 ### Brute Force
 Problem|Solution
