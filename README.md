@@ -101,6 +101,7 @@ Problem | Solution
 [1525A. Potion-making (codeforces)](https://codeforces.com/problemset/problem/1525/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1525A.cpp)
 [1765M. Minimum LCM (codeforces)](https://codeforces.com/contest/1765/problem/M)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1765M.cpp)
 [1764B. Doremy's Perfect Math Class (codeforces)](https://codeforces.com/contest/1764/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Number_Theory/1764B.cpp)
+[1617B. GCD Problem (codeforces)](https://codeforces.com/problemset/problem/1617/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1617B.cpp)
 
 ### Brute Force
 Problem|Solution
