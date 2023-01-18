@@ -22,6 +22,7 @@ Problem | Solution
 [69. Sqrt(x) (leetcode)](https://leetcode.com/problems/sqrtx/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/69.cpp)
 [278. First Bad Version (leetcode)](https://leetcode.com/problems/first-bad-version/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/278.cpp)
 [349. Intersection of Two Arrays (leetcode)](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/349.cpp)
+[367. Valid Perfect Square (leetcode)](https://leetcode.com/problems/valid-perfect-square/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/367.cpp)
 
 ### Ternary Search
 Problem | Solution
