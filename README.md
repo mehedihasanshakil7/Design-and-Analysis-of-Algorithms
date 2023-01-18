@@ -20,6 +20,7 @@ Problem | Solution
 --- | ---
 [35. Search Insert Position (leetcode)](https://leetcode.com/problems/search-insert-position/description/) | [Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/35.cpp)
 [69. Sqrt(x) (leetcode)](https://leetcode.com/problems/sqrtx/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/69.cpp)
+[278. First Bad Version (leetcode)](https://leetcode.com/problems/first-bad-version/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/278.cpp)
 
 ### Ternary Search
 Problem | Solution
