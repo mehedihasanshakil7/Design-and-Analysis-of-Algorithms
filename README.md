@@ -23,6 +23,7 @@ Problem | Solution
 [278. First Bad Version (leetcode)](https://leetcode.com/problems/first-bad-version/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/278.cpp)
 [349. Intersection of Two Arrays (leetcode)](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/349.cpp)
 [367. Valid Perfect Square (leetcode)](https://leetcode.com/problems/valid-perfect-square/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/367.cpp)
+[374. Guess Number Higher or Lower (leetcode)](https://leetcode.com/problems/guess-number-higher-or-lower/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/374.cpp)
 
 ### Ternary Search
 Problem | Solution
