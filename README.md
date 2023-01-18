@@ -120,6 +120,7 @@ Problem|Solution
 [1617B. GCD Problem (codeforces)](https://codeforces.com/problemset/problem/1617/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1617B.cpp)
 [919B. Perfect Number (codeforces)](https://codeforces.com/problemset/problem/919/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/919B.cpp)
 [268. Missing Number (leetcode)](https://leetcode.com/problems/missing-number/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/268_leetcode.cpp)
+[349. Intersection of Two Arrays (leetcode)](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/349.cpp)
 
 ### Factorial
 Problem | Solution
