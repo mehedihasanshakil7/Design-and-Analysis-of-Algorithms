@@ -118,6 +118,7 @@ Problem|Solution
 [271A. Beautiful Year (codeforces)](https://codeforces.com/problemset/problem/271/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/271A.cpp)
 [1617B. GCD Problem (codeforces)](https://codeforces.com/problemset/problem/1617/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1617B.cpp)
 [919B. Perfect Number (codeforces)](https://codeforces.com/problemset/problem/919/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/919B.cpp)
+[268. Missing Number (leetcode)](https://leetcode.com/problems/missing-number/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/268_leetcode.cpp)
 
 ### Factorial
 Problem | Solution
