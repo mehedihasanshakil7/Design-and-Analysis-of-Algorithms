@@ -132,9 +132,10 @@ Problem | Solution
 [1618. Trailing Zeros (cses)](https://cses.fi/problemset/task/1618)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Factorial/1618.cpp)
 
 ### Graph
-Problem | Solution
---- | ---
-[1971. Find if Path Exists in Graph (leetcode)](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/1971.cpp)
-[102. Binary Tree Level Order Traversal (leetcode)](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/102.cpp)
-[104. Maximum Depth of Binary Tree (leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/104.cpp)
-[Connected Components (interviewbit)](https://www.interviewbit.com/problems/connected-components/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/connected_components.cpp)
+Problem | Tag | Solution
+--- | --- | ---
+[1971. Find if Path Exists in Graph (leetcode)](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)|bfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/1971.cpp)
+[102. Binary Tree Level Order Traversal (leetcode)](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)|bfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/102.cpp)
+[104. Maximum Depth of Binary Tree (leetcode](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)|bfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/104.cpp)
+[Connected Components (interviewbit)](https://www.interviewbit.com/problems/connected-components/)|bfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/connected_components.cpp)
+[727A. Transformation: from A to B (codeforces)](https://codeforces.com/problemset/problem/727/A)|bfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/727A.cpp)
