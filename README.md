@@ -92,6 +92,7 @@ Problem |Solution
 [681A. A Good Contest (codeforces)](https://codeforces.com/problemset/problem/681/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/681A.cpp)
 [248A. Cupboards (codeforces)](https://codeforces.com/problemset/problem/248/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/248A.cpp)
 [431A. Black Square (codeforces)](https://codeforces.com/problemset/problem/431/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/431A.cpp)
+[1703E. Mirror Grid (codeforces)](https://codeforces.com/contest/1703/problem/E)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1703E.cpp)
 
 ### Number Theory
 Problem | Solution
