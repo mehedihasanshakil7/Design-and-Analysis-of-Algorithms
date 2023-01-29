@@ -143,3 +143,9 @@ Problem | Tag | Solution
 [Connected Components (interviewbit)](https://www.interviewbit.com/problems/connected-components/)|bfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/connected_components.cpp)
 [727A. Transformation: from A to B (codeforces)](https://codeforces.com/problemset/problem/727/A)|bfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/727A.cpp)
 [Path in Directed Graph (interviewbit)](https://www.interviewbit.com/problems/path-in-directed-graph/)|dfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/path_in_directed_graph.cpp)
+
+
+### Bitmasks
+Problem | Solution
+--- | ---
+[1527A. And Then There Were K (codeforces)](https://codeforces.com/problemset/problem/1527/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/1527A.cpp)
