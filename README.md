@@ -145,6 +145,7 @@ Problem | Tag | Solution
 [727A. Transformation: from A to B (codeforces)](https://codeforces.com/problemset/problem/727/A)|bfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/727A.cpp)
 [Path in Directed Graph (interviewbit)](https://www.interviewbit.com/problems/path-in-directed-graph/)|dfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/path_in_directed_graph.cpp)
 [abc287C - Path Graph? (atcoder)](https://atcoder.jp/contests/abc287/tasks/abc287_c)|dfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/abc287_c.cpp)
+[Bipartite Graph (geeksforgeeks)](https://practice.geeksforgeeks.org/problems/bipartite-graph/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article)|dfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/bipartite_graph_dfs.cpp)
 
 ### Bitmasks
 Problem | Solution
