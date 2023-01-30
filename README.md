@@ -149,3 +149,4 @@ Problem | Tag | Solution
 Problem | Solution
 --- | ---
 [1527A. And Then There Were K (codeforces)](https://codeforces.com/problemset/problem/1527/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/1527A.cpp)
+[78. Subsets (leetcode)](https://leetcode.com/problems/subsets/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/78.cpp)
