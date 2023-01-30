@@ -154,3 +154,4 @@ Problem | Solution
 [78. Subsets (leetcode)](https://leetcode.com/problems/subsets/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/78.cpp)
 [1698A. XOR Mixup (codeforces)](https://codeforces.com/problemset/problem/1698/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/1698A.cpp)
 [1688A. Cirno's Perfect Bitmasks Classroom (codeforces)](https://codeforces.com/problemset/problem/1688/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/1688A.cpp)
+[318. Maximum Product of Word Lengths (leetcode)](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/318.cpp)
