@@ -157,3 +157,4 @@ Problem | Solution
 [318. Maximum Product of Word Lengths (leetcode)](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/318.cpp)
 [Single Number (interviewbit)](https://www.interviewbit.com/problems/single-number/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/single_number.cpp)
 [Single Number II (interviewbit)](https://www.interviewbit.com/problems/single-number-ii/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/single_number_ii.cpp)
+[Number of 1 Bits (interviewbit)](https://www.interviewbit.com/problems/number-of-1-bits/)|[Clcik](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/number_of_1_bits.cpp)
