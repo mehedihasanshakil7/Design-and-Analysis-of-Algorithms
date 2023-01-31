@@ -161,3 +161,4 @@ Problem | Solution
 [Trailing Zeroes (interviewbit)](https://www.interviewbit.com/problems/trailing-zeroes/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/trailing_zeroes.cpp)
 [Reverse Bits (interviewbit)](https://www.interviewbit.com/problems/reverse-bits/)|[Clcik](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/reverse_bits.cpp)
 [Sum of pairwise Hamming Distance (interviewbit)](https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/#:~:text=Hamming%20distance%20between%20two%20non,of%20integers%20in%20the%20array.)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/sum_of_pairwise_hamming_distance.cpp)
+[268. Missing Number (leetcode)](https://leetcode.com/problems/missing-number/description/)|[Clcik](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/268.cpp)
