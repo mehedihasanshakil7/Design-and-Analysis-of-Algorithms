@@ -27,6 +27,11 @@ Problem | Solution
 [374. Guess Number Higher or Lower (leetcode)](https://leetcode.com/problems/guess-number-higher-or-lower/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/374.cpp)
 [441. Arranging Coins (leetcode)](https://leetcode.com/problems/arranging-coins/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Binary_search/441.cpp)
 
+### String
+Problem | Solution
+--- | ---
+ [415. Add Strings (leetcode)](https://leetcode.com/problems/add-strings/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/415.cpp)
+ 
 ### Ternary Search
 Problem | Solution
 --- | ---
