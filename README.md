@@ -156,3 +156,4 @@ Problem | Solution
 [1688A. Cirno's Perfect Bitmasks Classroom (codeforces)](https://codeforces.com/problemset/problem/1688/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/1688A.cpp)
 [318. Maximum Product of Word Lengths (leetcode)](https://leetcode.com/problems/maximum-product-of-word-lengths/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/318.cpp)
 [Single Number (interviewbit)](https://www.interviewbit.com/problems/single-number/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/single_number.cpp)
+[Single Number II (interviewbit)](https://www.interviewbit.com/problems/single-number-ii/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Bitmasks/single_number_ii.cpp)
