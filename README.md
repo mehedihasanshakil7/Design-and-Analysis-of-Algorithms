@@ -102,6 +102,7 @@ Problem |Solution
 [248A. Cupboards (codeforces)](https://codeforces.com/problemset/problem/248/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/248A.cpp)
 [431A. Black Square (codeforces)](https://codeforces.com/problemset/problem/431/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/431A.cpp)
 [1703E. Mirror Grid (codeforces)](https://codeforces.com/contest/1703/problem/E)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1703E.cpp)
+[1791C. Prepend and Append (codeforces)](https://codeforces.com/contest/1791/problem/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1791C.cpp)
 
 ### Number Theory
 Problem | Solution
