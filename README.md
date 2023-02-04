@@ -48,6 +48,7 @@ Problem | Solution
 [1312A. Two Regular Polygons (codeforces](https://codeforces.com/problemset/problem/1312/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1312A.cpp)
 [1740B. Jumbo Extra Cheese 2 (codeforces)](https://codeforces.com/problemset/problem/1740/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1740B.cpp)
 [1713A. Traveling Salesman Problem (codeforces)](https://codeforces.com/problemset/problem/1713/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1713A.cpp)
+[1791B. Following Directions (codeforces)](https://codeforces.com/contest/1791/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Geometry/1791B.cpp)
 
 ### Math
 Problem | Solution
