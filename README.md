@@ -32,7 +32,7 @@ Problem | Solution
 --- | ---
  [415. Add Strings (leetcode)](https://leetcode.com/problems/add-strings/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/415.cpp)
 [792. Number of Matching Subsequences (leetcode)](https://leetcode.com/problems/number-of-matching-subsequences/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/792.cpp)
- 
+ [1791A. Codeforces Checking (codeforces)](https://codeforces.com/contest/1791/problem/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1791A.cpp)
  
 ### Ternary Search
 Problem | Solution
