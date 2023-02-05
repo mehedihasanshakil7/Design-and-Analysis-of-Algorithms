@@ -34,6 +34,7 @@ Problem | Solution
 [792. Number of Matching Subsequences (leetcode)](https://leetcode.com/problems/number-of-matching-subsequences/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/792.cpp)
  [1791A. Codeforces Checking (codeforces)](https://codeforces.com/contest/1791/problem/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1791A.cpp)
  [709. To Lower Case (leetcode)](https://leetcode.com/problems/to-lower-case/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/709.cpp)
+ [890. Find and Replace Pattern (leetcode)](https://leetcode.com/problems/find-and-replace-pattern/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/890.cpp)
  
 ### Ternary Search
 Problem | Solution
