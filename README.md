@@ -36,6 +36,7 @@ Problem | Solution
  [709. To Lower Case (leetcode)](https://leetcode.com/problems/to-lower-case/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/709.cpp)
  [890. Find and Replace Pattern (leetcode)](https://leetcode.com/problems/find-and-replace-pattern/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/890.cpp)
  [1859. Sorting the Sentence (leetcode)](https://leetcode.com/problems/sorting-the-sentence/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1859.cpp)
+ [1791D. Distinct Split (codeforces)](https://codeforces.com/contest/1791/problem/D)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1791D.cpp)
  
 ### Ternary Search
 Problem | Solution
