@@ -38,6 +38,7 @@ Problem | Solution
  [1859. Sorting the Sentence (leetcode)](https://leetcode.com/problems/sorting-the-sentence/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1859.cpp)
  [1791D. Distinct Split (codeforces)](https://codeforces.com/contest/1791/problem/D)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1791D.cpp)
  [696. Count Binary Substrings (leetcode)](https://leetcode.com/problems/count-binary-substrings/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/696.cpp)
+ [1832. Check if the Sentence Is Pangram (leetcode)](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1832.cpp)
  
 ### Ternary Search
 Problem | Solution
