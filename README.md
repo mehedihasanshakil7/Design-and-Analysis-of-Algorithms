@@ -39,6 +39,7 @@ Problem | Solution
  [1791D. Distinct Split (codeforces)](https://codeforces.com/contest/1791/problem/D)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1791D.cpp)
  [696. Count Binary Substrings (leetcode)](https://leetcode.com/problems/count-binary-substrings/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/696.cpp)
  [1832. Check if the Sentence Is Pangram (leetcode)](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1832.cpp)
+ [3. Longest Substring Without Repeating Characters (leetcode)](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/3.cpp)
  
 ### Ternary Search
 Problem | Solution
