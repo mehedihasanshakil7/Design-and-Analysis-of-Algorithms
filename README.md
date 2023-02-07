@@ -40,6 +40,7 @@ Problem | Solution
  [696. Count Binary Substrings (leetcode)](https://leetcode.com/problems/count-binary-substrings/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/696.cpp)
  [1832. Check if the Sentence Is Pangram (leetcode)](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1832.cpp)
  [3. Longest Substring Without Repeating Characters (leetcode)](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/3.cpp)
+ [1461. Check If a String Contains All Binary Codes of Size K (leetcode)](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1461.cpp)
  
 ### Ternary Search
 Problem | Solution
