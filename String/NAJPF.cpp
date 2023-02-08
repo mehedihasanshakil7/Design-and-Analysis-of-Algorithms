@@ -18,7 +18,7 @@ vector<int> rabin_karp(string pat, string txt)
 
   //pl = pattern length
   //tl = text length
-  //sig_pw = significan power
+  //sig_pw = significant power
   //pat_hash = hash value of pattern
   int pl = pat.size(), tl = txt.size();
 
