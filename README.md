@@ -43,6 +43,7 @@ Problem | Solution
  [1461. Check If a String Contains All Binary Codes of Size K (leetcode)](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1461.cpp)
  [1332. Remove Palindromic Subsequences (leetcode)](https://leetcode.com/problems/remove-palindromic-subsequences/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1332.cpp)
  [1249. Minimum Remove to Make Valid Parentheses (leetcode)](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1249.cpp)
+ [NAJPF - Pattern Find (spoj)](https://www.spoj.com/problems/NAJPF/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/NAJPF.cpp)
  
 ### Ternary Search
 Problem | Solution
