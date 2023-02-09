@@ -45,6 +45,7 @@ Problem | Solution
  [1249. Minimum Remove to Make Valid Parentheses (leetcode)](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1249.cpp)
  [NAJPF - Pattern Find (spoj)](https://www.spoj.com/problems/NAJPF/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/NAJPF.cpp)
  [784. Letter Case Permutation (leetcode)](https://leetcode.com/problems/letter-case-permutation/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/784.cpp)
+ [1663. Smallest String With A Given Numeric Value (leetcode)](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1663.cpp)
  
 ### Ternary Search
 Problem | Solution
