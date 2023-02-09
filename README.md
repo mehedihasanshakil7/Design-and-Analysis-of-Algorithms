@@ -78,6 +78,7 @@ Problem | Solution
 [1566A. Median Maximization (codeforces)](https://codeforces.com/problemset/problem/1566/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1566A.cpp)
 [1592A. Gamer Hemose (codeforces)](https://codeforces.com/problemset/problem/1592/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1592A.cpp)
 [1715B. Beautiful Array (codeforces)](https://codeforces.com/contest/1715/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1715B.cpp)
+[1788C. Matching Numbers (codeforces)](https://codeforces.com/contest/1788/problem/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1788C.cpp)
 
 ### Constructive Algorithms
 Problem | Solution
