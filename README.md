@@ -49,6 +49,7 @@ Problem | Solution
  [1732 Finding Borders (cses)](https://cses.fi/problemset/task/1732/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1732.cpp)
  [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence (leetcode)](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1455.cpp)
  [771. Jewels and Stones (leetcode)](https://leetcode.com/problems/jewels-and-stones/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/771.cpp)
+ [389. Find the Difference (leetcode)](https://leetcode.com/problems/find-the-difference/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/389.cpp)
  
 ### Ternary Search
 Problem | Solution
