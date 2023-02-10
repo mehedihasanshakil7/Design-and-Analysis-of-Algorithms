@@ -46,6 +46,7 @@ Problem | Solution
  [NAJPF - Pattern Find (spoj)](https://www.spoj.com/problems/NAJPF/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/NAJPF.cpp)
  [784. Letter Case Permutation (leetcode)](https://leetcode.com/problems/letter-case-permutation/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/784.cpp)
  [1663. Smallest String With A Given Numeric Value (leetcode)](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1663.cpp)
+ [1732 Finding Borders (cses)](https://cses.fi/problemset/task/1732/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1732.cpp)
  
 ### Ternary Search
 Problem | Solution
