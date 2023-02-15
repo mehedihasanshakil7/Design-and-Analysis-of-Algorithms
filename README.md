@@ -51,6 +51,7 @@ Problem | Solution
  [771. Jewels and Stones (leetcode)](https://leetcode.com/problems/jewels-and-stones/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/771.cpp)
  [389. Find the Difference (leetcode)](https://leetcode.com/problems/find-the-difference/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/389.cpp)
  [438. Find All Anagrams in a String (leetcode)](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/438.cpp)
+ [1616B. Mirror in the String (codeforces)](https://codeforces.com/contest/1616/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1616B.cpp)
  
 ### Ternary Search
 Problem | Solution
