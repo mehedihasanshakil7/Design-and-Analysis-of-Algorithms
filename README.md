@@ -54,6 +54,7 @@ Problem | Solution
  [389. Find the Difference (leetcode)](https://leetcode.com/problems/find-the-difference/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/389.cpp)
  [438. Find All Anagrams in a String (leetcode)](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/438.cpp)
  [1616B. Mirror in the String (codeforces)](https://codeforces.com/contest/1616/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1616B.cpp)
+ [1473B. String LCM (codeforces)](https://codeforces.com/problemset/problem/1473/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/String/1473B.cpp)
  
 ### Ternary Search
 Problem | Solution
