@@ -19,6 +19,7 @@ Problem | Solution
 [1791G1. Teleporters (Easy Version) (codeforces)](https://codeforces.com/contest/1791/problem/G1)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1791G1.cpp)
 [1392A. Omkar and Password (codeforces)](https://codeforces.com/problemset/problem/1392/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1392A.cpp)
 [1399A. Remove Smallest](https://codeforces.com/problemset/problem/1399/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1399A.cpp)
+[1452C. Two Brackets (codeforces)](https://codeforces.com/problemset/problem/1452/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1452C.cpp)
 
 ### Binary Search
 Problem | Solution
