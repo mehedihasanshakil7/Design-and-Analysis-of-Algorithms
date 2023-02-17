@@ -92,6 +92,7 @@ Problem | Solution
 [1715B. Beautiful Array (codeforces)](https://codeforces.com/contest/1715/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1715B.cpp)
 [1788C. Matching Numbers (codeforces)](https://codeforces.com/contest/1788/problem/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1788C.cpp)
 [1353A. Most Unstable Array (codeforces)](https://codeforces.com/problemset/problem/1353/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1353A.cpp)
+[1366A. Shovels and Swords (codeforces)](https://codeforces.com/problemset/problem/1366/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1366A.cpp)
 
 ### Constructive Algorithms
 Problem | Solution
