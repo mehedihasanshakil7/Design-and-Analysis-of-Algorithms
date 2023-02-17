@@ -17,6 +17,7 @@ Problem | Solution
 [1324C. Frog Jumps (codeforces)](https://codeforces.com/problemset/problem/1324/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1324C.cpp)
 [1791E. Negatives and Positives (codeforces)](https://codeforces.com/contest/1791/problem/E)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1791E.cpp)
 [1791G1. Teleporters (Easy Version) (codeforces)](https://codeforces.com/contest/1791/problem/G1)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1791G1.cpp)
+[1392A. Omkar and Password (codeforces)](https://codeforces.com/problemset/problem/1392/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1392A.cpp)
 
 ### Binary Search
 Problem | Solution
