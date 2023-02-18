@@ -95,6 +95,7 @@ Problem | Solution
 [1353A. Most Unstable Array (codeforces)](https://codeforces.com/problemset/problem/1353/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1353A.cpp)
 [1366A. Shovels and Swords (codeforces)](https://codeforces.com/problemset/problem/1366/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1366A.cpp)
 [1373A. Donut Shops (codeforces)](https://codeforces.com/problemset/problem/1373/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1373A.cpp)
+[1392B. Omkar and Infinity Clock (codeforces)](https://codeforces.com/contest/1392/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1392B.cpp)
 
 ### Constructive Algorithms
 Problem | Solution
