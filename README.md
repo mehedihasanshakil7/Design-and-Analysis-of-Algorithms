@@ -93,6 +93,7 @@ Problem | Solution
 [1788C. Matching Numbers (codeforces)](https://codeforces.com/contest/1788/problem/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1788C.cpp)
 [1353A. Most Unstable Array (codeforces)](https://codeforces.com/problemset/problem/1353/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1353A.cpp)
 [1366A. Shovels and Swords (codeforces)](https://codeforces.com/problemset/problem/1366/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1366A.cpp)
+[1373A. Donut Shops (codeforces)](https://codeforces.com/problemset/problem/1373/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1373A.cpp)
 
 ### Constructive Algorithms
 Problem | Solution
