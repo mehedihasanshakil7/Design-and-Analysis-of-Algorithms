@@ -21,6 +21,7 @@ Problem | Solution
 [1399A. Remove Smallest](https://codeforces.com/problemset/problem/1399/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1399A.cpp)
 [1452C. Two Brackets (codeforces)](https://codeforces.com/problemset/problem/1452/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1452C.cpp)
 [1353B. Two Arrays And Swaps (codeforces)](https://codeforces.com/problemset/problem/1353/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1353B.cpp)
+[1360B. Honest Coach (codeforces)](https://codeforces.com/problemset/problem/1360/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Greedy/1360B.cpp)
 
 ### Binary Search
 Problem | Solution
