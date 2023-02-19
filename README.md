@@ -100,6 +100,7 @@ Problem | Solution
 [1392B. Omkar and Infinity Clock (codeforces)](https://codeforces.com/contest/1392/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1392B.cpp)
 [450B. Jzzhu and Sequences (codeforces)](https://codeforces.com/contest/450/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/450B.cpp)
 [1409A. Yet Another Two Integers Problem (codeforces)](https://codeforces.com/problemset/problem/1409/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1409A.cpp)
+[1342A. Road To Zero (codeforces)](https://codeforces.com/problemset/problem/1342/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1342A.cpp)
 
 ### Constructive Algorithms
 Problem | Solution
