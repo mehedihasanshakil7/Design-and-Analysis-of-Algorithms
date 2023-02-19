@@ -96,6 +96,7 @@ Problem | Solution
 [1366A. Shovels and Swords (codeforces)](https://codeforces.com/problemset/problem/1366/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1366A.cpp)
 [1373A. Donut Shops (codeforces)](https://codeforces.com/problemset/problem/1373/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1373A.cpp)
 [1392B. Omkar and Infinity Clock (codeforces)](https://codeforces.com/contest/1392/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/1392B.cpp)
+[450B. Jzzhu and Sequences (codeforces)](https://codeforces.com/contest/450/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Math/450B.cpp)
 
 ### Constructive Algorithms
 Problem | Solution
