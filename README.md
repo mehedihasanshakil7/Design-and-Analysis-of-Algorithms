@@ -176,6 +176,7 @@ Problem|Solution
 [919B. Perfect Number (codeforces)](https://codeforces.com/problemset/problem/919/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/919B.cpp)
 [268. Missing Number (leetcode)](https://leetcode.com/problems/missing-number/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/268.cpp)
 [349. Intersection of Two Arrays (leetcode)](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/349.cpp)
+[1520A. Do Not Be Distracted! (codeforces)](https://codeforces.com/contest/1520/problem/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Brute_Force/1520A.cpp)
 
 ### Factorial
 Problem | Solution
