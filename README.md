@@ -144,6 +144,7 @@ Problem |Solution
 [1365A. Matrix Game (codeforces)](https://codeforces.com/problemset/problem/1365/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1365A.cpp)
 [887A. Div. 64 (codeforces)](https://codeforces.com/problemset/problem/887/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/887A.cpp)
 [1157A. Reachable Numbers (codeforces)](https://codeforces.com/contest/1157/problem/A)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/1157A.cpp)
+[12B. Correct Solution? (codeforces)](https://codeforces.com/contest/12/problem/B)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Implementation/12B.cpp)
 
 ### Number Theory
 Problem | Solution
