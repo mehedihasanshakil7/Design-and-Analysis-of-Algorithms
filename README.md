@@ -202,6 +202,11 @@ Problem | Tag | Solution
 [1666 Building Roads (cses)](https://cses.fi/problemset/task/1666/)|dfs|[CLick](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/1666_building_roads.cpp)
 [733. Flood Fill (leetcode)](https://leetcode.com/problems/flood-fill/description/)|dfs|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Graph/733.cpp)
 
+### Dijkstra
+Problem | Solution
+--- | ---
+[20C. Dijkstra? (codeforces)](https://codeforces.com/problemset/problem/20/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Dijkstra/20C.cpp)
+
 ### Bitmasks
 Problem | Solution
 --- | ---
