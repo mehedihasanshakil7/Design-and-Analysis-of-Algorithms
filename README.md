@@ -206,6 +206,7 @@ Problem | Tag | Solution
 Problem | Solution
 --- | ---
 [20C. Dijkstra? (codeforces)](https://codeforces.com/problemset/problem/20/C)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Dijkstra/20C.cpp)
+[EZDIJKST - Easy Dijkstra Problem (spoj)](https://www.spoj.com/problems/EZDIJKST/)|[Click](https://github.com/mehedihasanshakil7/Design-and-Analysis-of-Algorithms/blob/main/Dijkstra/EZDIJKST.cpp)
 
 ### Bitmasks
 Problem | Solution
